@@ -3,7 +3,7 @@ A simple utility to tell you if a number is even in Java. Used in Monsoon.
 
 ## Usage
 ```java
-import wtf.monsoon.api.util.misc.IsEven
+import wtf.monsoon.util.IsEven;
 
 public class Main {
 
